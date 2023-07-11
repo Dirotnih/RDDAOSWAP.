@@ -1,0 +1,6 @@
+{
+  "id": "string",
+  "client_id": "string",
+  "authorized": true,
+  "created_at": "string"
+}
