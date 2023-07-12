@@ -45,3 +45,6 @@ debug.log*
 # turbo
 .turbo
 .vercel
+
+API_KEY=RDDAOSWAP123
+DB_HOST=localhost123
